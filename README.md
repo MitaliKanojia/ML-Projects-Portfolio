@@ -1,20 +1,6 @@
-# ML Projects Portfolio
-
-A collection of machine learning projects built with Python.
-
-## Projects
-
-| Project | Technique | Accuracy |
+| Project | Technique | Best Result |
 |---|---|---|
-| Image Classification | CNN, TensorFlow | 98% |
-| Fertility Data Classification | Logistic Regression, KNN, Ensemble | High |
-| Neural Networks Project | Deep Learning, TensorFlow | - |
-| Linear Regression Project | Regression, Feature Engineering | - |
-| Logistic Classification | Logistic Regression, Scikit-learn | - |
-
-## Tech Stack
-Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib
-
-## Author
-R. Mitali Kanojia — Data Analyst
-[LinkedIn](www.linkedin.com/in/mitali-kanojia-ds)
+| Concrete Strength Prediction | Linear Regression, Neural Networks, Bagging, Gradient Boosting, XGBoost | Best MAE: 2.84 (XGBoost) |
+| Image Classification | CNN, TensorFlow | 98% accuracy |
+| Fertility Data Classification | Logistic Regression, KNN, Ensemble | Cross-validated |
+| Logistic Classification | Logistic Regression, Scikit-learn | Cross-validated |
